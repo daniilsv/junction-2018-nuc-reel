@@ -1,5 +1,7 @@
 .. _mesh_badge:
 
+Web Panel => https://github.com/daniilsv/junction-2018-nuc-web
+
 Mesh Badge
 ##########
 
